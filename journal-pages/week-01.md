@@ -36,6 +36,9 @@ my group's data.
 ![Alt text](../assets/week-01/dataWorkUs.jpg)
 *Your caption here*
 
+![Alt text](../assets/week-01/dataWorkUs.jpg)
+`*Your caption here*`
+
 From there we were to swap with another group and try to decipher what there symbols and colour meant or represented and my group was able to get one of them right while for some of them we were close to guessing what they meant while for the other we were totally wrong about them.
 Other group's data. 
 ![other groups data](<other group data.jpg>)
