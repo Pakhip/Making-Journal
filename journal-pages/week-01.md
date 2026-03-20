@@ -33,7 +33,7 @@ The questions were - how was your week so far?, how did you get to uni today?, w
 The we moved onto allocating different colour to different moods (e,g green-happy red-angry) and making symbols that related to the questions we came up with (e.g car-buses or drove person-walked) from there each off us answered the questions we had written down. 
 my group's data.
 
-![Alt text](/..assets/week-01/dataWorkUs.jpg)
+![Alt text](../assets/week-01/dataWorkUs.jpg)
 *Your caption here*
 
 From there we were to swap with another group and try to decipher what there symbols and colour meant or represented and my group was able to get one of them right while for some of them we were close to guessing what they meant while for the other we were totally wrong about them.
