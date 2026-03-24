@@ -33,37 +33,44 @@ The questions were - how was your week so far?, how did you get to uni today?, w
 The we moved onto allocating different colour to different moods (e,g green-happy red-angry) and making symbols that related to the questions we came up with (e.g car-buses or drove person-walked) from there each off us answered the questions we had written down. 
 my group's data.
 
-![Alt text](../assets/week-01/dataWorkUs.jpg)
-*Your caption here*
+![data work](../assets/week-01/dataWorkUs.jpg)
+*the group data that we collected in class*
 
 From there we were to swap with another group and try to decipher what there symbols and colour meant or represented and my group was able to get one of them right while for some of them we were close to guessing what they meant while for the other we were totally wrong about them.
 Other group's data. 
-![other groups data](>)
+![other groups data](../assets/week-01/other%20group%20data.jpg)
+*the other groups data that they collected*
 we were given some question to answer about the other group.
 - What can you learn about the people in this group from their data portrait?
 - What surprised you?
 - What questions do you have for them?
 - Can you tell who is who?
 these were our answer to them 
-![Answers](<Answers to the questions.jpg>)
+![Answers](../assets/week-01/Answers%20to%20the%20questions.jpg)
+*the answer to the question about the other groups data*
 
 **Independent Data Portrait**
 For this task i have to make my own data portrait that is an hand draw visualisation of my own personal data that i will collect over several days. For this independent data portrait i will pick an aspect of my life which i don't pay close attention to which i will record over four to five days. 
 
 The topic that i chose to record over the course of 4 days was sounds that interrupt my concentration beacuse i wanted to see how often it would occur throughout my day.
-![Topic](topic.jpg)
+![Topic](../assets/week-01/topic.jpg)
+*the topic i chose for Independent Data Portrait*
 
 This is the data that i collected over the course of 4 days i wrote all the sound that interrupted my concentration, where it happened and what time it happened at. I chose to do this because i would notice things i would usually overlook and writing down each sound with where and when it happened also helped me to understand what distracted me the most and how often it would happen throughtout my day.
-![Data collection](<Data collection.jpg>)
+![Data collection](../assets/week-01/Data%20collection.jpg)
+*all the data that i collected trought the 4 days*
 
 Once i had collected all the data, i then wrote down all the sounds onto one pages to visually see all the things that interrupted me. After that i began creating different symbols to represent all the different sounds. some of the symbols were inspired by the sound itself for example the two wave line for people was people walking the trail that was near my room. i also make symbols for each day i collected data, what time i got interrupted and i also allocated colours to where it happened.
-![Symbols](<symbol making.jpg>)
+![Symbols](../assets/week-01/symbol%20making.jpg)
+*symbols made for the data collected*
 
 I started by sketching different ideas for how I wanted my hand‑drawn data visualisation data page to look like. I came up with three concepts, The first idea had three different times of day placed around the page, with coloured boxes with symbols showing where and how my concentration was interrupted and i didn’t choose this design because I felt it would become too busy and hard to read. My second idea used different shapes to represent each day, with each shape coloured and marked with symbols showing the time and the sound that interrupted my concentration this is the design I ended up choosing because it was the clearest, easiest to understand, and visually the most appealing to me. The third idea also used different shapes for each day, but placed coloured rectangles beside them to show what time and sound interrupted my concentration and decided against this one because I just didn’t like the layout of it or how it looked.
-![Ideas](ideas.jpg)
+![Ideas](../assets/week-01/ideas.jpg)
+*ideas on how to showcase my data*
 
 This is the final result of my independent data portrait that i did, and overall i am really happy with how it came together. Out of the three concepts I made, this one was the easiest for me to read and understand, and I think it presents the information in the best and most visually appealing way. 
-![Final](final.jpg)![final2](final..jpg)
+![Final](../assets/week-01/final.jpg)![final2](../assets/week-01/final..jpg)
+*the final data draw out with the symbols*
 
 Reflection
 I chose to record sounds that interrupt my concentration because it is a aspect of my everyday life which I usually ignore or overlook. By paying attention to the interruptions I get to understand what distracts me the most, how often it happens and whether it is certain times or places that make it harder for me to concentrate.
