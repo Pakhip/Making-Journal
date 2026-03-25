@@ -70,13 +70,11 @@ And lastly this part of the code draws all the symbols such as cloud, sun, wave,
 this is the final outcome of my sketch coded into the p5.js there were some problems with the code such as the colour of the diamond where the other shape are split into two colours the diamond stays a solid red colour  
 ## Use ai to try and fix a part of my code that wouldn't work
 and i did ask ai(Figure 1. Microsoft (2026). Fix this code so that the diamond is split into colours white ontop and red on the bottom [AI-generated prompt]. Microsoft Copilot.) to help me fix this problem in which it gave me a code but instead of helping it caused errors to happen with my other coding i had done for the shapes 
-(photo ai gave)(photo of error) 
-so i ended leaving the diamond as it didn't bother me to much but i still wished it was split colour like the other shapes overall i did find i some what easy to code as most of the code that i used were similar to the code out teacher taught and for some.(photo of final)(need to refine)
+[code ai gave me](../assets/week-02/code%20ai%20gave%20me%20.png)[code error](../assets/week-02/code%20error.png)
+so i ended leaving the diamond as it didn't bother me to much but i still wished it was split colour like the other shapes overall i did find i some what easy to code as most of the code that i used were similar to the code out teacher taught and for some.[Data final](../assets/week-02/Data%20final.png)
 
 once the code was finished i gave it to my flatmate to see and observe how they would interact with it. They first tried the slider making the shapes bigger and smaller and then they moved onto the dropdown men playing around with it by choosing different symbols to display. And from observing them i saw that the interactive elements of the sketch were clear, easy to use and engaging the for a exploration of the data.
 
-
-Did you use vibe coding or other tools in your process? What did you learn from this?
 **Reflective writing**
 The data and visual aspects that i chose to work with from experiment 1 were the sounds that interupted my concentration, the shapes i used to represent the different days and the symbols i assignd to each of the sounds. The reason that i chose those thing beacuse the sounds were the main part of experiment 1, the shapes for the different days gave the data a clear structure and the symbols for sound because it allowed me to express those differences visually.
 
