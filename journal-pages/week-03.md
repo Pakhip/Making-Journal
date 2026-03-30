@@ -10,7 +10,8 @@ For the first activity we had to explore with cURL using terminal and the docume
 - Find something else in the documentation that we haven't covered
 I started by locating where the terminal is on my computer and learning what each of the command does. For example cd shows me where i am, dir displays the directory contents of my computer and documents list all the documents i have 
 
-From there i moved onto completing the list on using curl in the terminal. the first task was to get the weather for a location  using its gps coordinates. how it works is that when i run the command my terminal uses curl to send a request to wttr.in and wttr.in reads those coordinates to figure out where the location is. [weather](../assets/week-03/weather.png)
+From there i moved onto completing the list on using curl in the terminal. the first task was to get the weather for a location  using its gps coordinates. how it works is that when i run the command my terminal uses curl to send a request to wttr.in and wttr.in reads those coordinates to figure out where the location is. 
+[weather](../assets/week-03/weather.png)
 
 This is the same weather as the first one but this one is just in a different language. how this works i run a command which uses curl to send a request to wttr.in. The difference is that the ?lang=ko tells wttr.in which language i want the weather to be in and the server reads that language code (for example, es for Spanish, fr for French, ko for Korean) that is at the end of ?lang=ko and translates the weather descriptions into that language [weather korean](../assets/week-03/weather%20korean.png)
 

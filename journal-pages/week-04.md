@@ -1,28 +1,3 @@
----
-layout: default
----
-
-# Week 04
-
-[← Back to Home](../index.md)
-
-## Documentation 
-
-*Include your documentation for the week. Devise your own structure of headings relevant to the required tasks and your process.*
-
-## Images & Media
-
-*Use the format below to embed images from your assets folder:*
-
-`![Alt text](../assets/week-01/your-image.jpg)`
-`*Your caption here*`
-
-*The text inside the square brackets is alt text (a description for accessibility), not a visible caption. To add a caption, place a line of italic text below the image.*
-
-## AI Usage Statement
-
-*Document any use of AI tools under an AI Usage Statement heading. Explain which tools you used and describe how you used them. Reference any AI-generated content (see [QuickCite](https://auckland.libguides.com/referencing-generative-ai-tools) for guidance).*
-
 Friday 27 march - studio 4
 overview of studio
 we were to explore local and cloud based ai workflows and we were to do activites would introduce the practical and ethical dimensions of working with ai and building onto the ideas about representation from the other experiments that were done.
@@ -104,7 +79,6 @@ the representation that was most interesting was the static chart because of the
 what i would do differently if i was building this without ai is that I would look more in depth into the dataset as i did do a quick look over with it. Deciding on the variables i would want to add and designing the visualisation and not just accepting the defaults that were given.
 
 **Reflective writing**
-- What was your experience of working with AI as design tool?
 - What would you develop further with more time?
 
 The dataset that i ended up choosing the WDC three water lines as it was one of the few that i could fine that would let me download the csv of and that i was interested in how the water system works and the different components that keep it working.
@@ -118,3 +92,7 @@ The different representations of the same data can change what the viewer might 
 D'Ignazio and Klein's ideas make me think about whose perspectives are represented in the WDC three water dataset and whose are missing as the dataset reflects the councils records but not of the lived experiences of the communities who are affected by the water system.
 
 Mikaere's framing of data as a strategic asset for the maori development challenges me to see the three water dataset as more that just technical records it hightlights how the dataset reflects the councils priorities mean while excluding the maori relationship with the water and the cultural values.
+
+My experience working with ai as a design tool was interesting because i would not fully know how the ai would interpret the dataset that i gave it. as something it would highlight new data from dataset for each of the charts i asked for.
+
+What i would like to develop further if i had a more time are the charts that ai had generated. i would like to go into more detail and visualisations.
