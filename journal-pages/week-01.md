@@ -1,30 +1,5 @@
----
-layout: default
----
-
-# Week 01
-
-[← Back to Home](../index.md)
-
-## Documentation 
-
-*Include your documentation for the week. Devise your own structure of headings relevant to the required tasks and your process.*
-
-## Images & Media
-
-*Use the format below to embed images from your assets folder:*
-
-`![Alt text](../assets/week-01/your-image.jpg)`
-`*Your caption here*`
-
-*The text inside the square brackets is alt text (a description for accessibility), not a visible caption. To add a caption, place a line of italic text below the image.*
-
-## AI Usage Statement
-
-*Document any use of AI tools under an AI Usage Statement heading. Explain which tools you used and describe how you used them. Reference any AI-generated content (see [QuickCite](https://auckland.libguides.com/referencing-generative-ai-tools) for guidance).*
-
 week one
-Friday 3rd march - studio 1 
+Friday 6rd march - studio 1 
 overview of the studio
 In the studio we were given a task of getting into a group of four to five people where we would collaborate together to come up an make a hand drawn data visualisation that would be made entirely from data, Each person in the group was to come up with an question that would be personal but low stack which was to be done anonymous. (Group- gemma, nada, jimmy, me)
 
@@ -32,7 +7,6 @@ The questions were - how was your week so far?, how did you get to uni today?, w
 
 The we moved onto allocating different colour to different moods (e,g green-happy red-angry) and making symbols that related to the questions we came up with (e.g car-buses or drove person-walked) from there each off us answered the questions we had written down. 
 my group's data.
-
 ![data work](../assets/week-01/dataWorkUs.jpg)
 *the group data that we collected in class*
 
@@ -49,7 +23,7 @@ these were our answer to them
 ![Answers](../assets/week-01/Answers%20to%20the%20questions.jpg)
 *the answer to the question about the other groups data*
 
-**Independent Data Portrait**
+**Independent Study**
 For this task i have to make my own data portrait that is an hand draw visualisation of my own personal data that i will collect over several days. For this independent data portrait i will pick an aspect of my life which i don't pay close attention to which i will record over four to five days. 
 
 The topic that i chose to record over the course of 4 days was sounds that interrupt my concentration beacuse i wanted to see how often it would occur throughout my day.

@@ -1,59 +1,44 @@
----
-layout: default
----
-
-# Week 02
-
-[← Back to Home](../index.md)
-
-## Documentation 
-
-*Include your documentation for the week. Devise your own structure of headings relevant to the required tasks and your process.*
-
-## Images & Media
-
-*Use the format below to embed images from your assets folder:*
-
-`![Alt text](../assets/week-01/your-image.jpg)`
-`*Your caption here*`
-
-*The text inside the square brackets is alt text (a description for accessibility), not a visible caption. To add a caption, place a line of italic text below the image.*
-
-## AI Usage Statement
-
-*Document any use of AI tools under an AI Usage Statement heading. Explain which tools you used and describe how you used them. Reference any AI-generated content (see [QuickCite](https://auckland.libguides.com/referencing-generative-ai-tools) for guidance).*
-
 friday 13 march - studio 2
 overview of the studio 
-in the studio we learned how to code using a wesite called p5.js where we got to explore coding fundamentals and interactive DOM elements such as buttons, sliders, text inputs and to create text sketches that respond to user input.
+in the studio we learned how to code using a website called p5.js where we got to explore coding fundamentals and interactive DOM elements such as buttons, sliders, text inputs and to create text sketches that respond to user input.
 
 I first spent some time getting use to with using p5.js before attempting to do a simple sketch that used at least three different types of shapes. I also experimented with using different colours, sizes, and the positionings of each shape. And this is was i did, i coded 3 different shapes in 3 different colours and put them in different positions.
 (photo)
+*the different shapes in different colours,positions and sizes*
 
-Once i became comfortable with using p5.js i moved onto learning to code DOM elements so i could create a sketch that at least uses two interactive controls that change something on the canvas such as create button, slider or input. What i ended up doing was making a code using slider and input. The slider controlled the size of the circle making it bigger and smaller and the input box allowed me me to type text that would appear under the circle i used the exmaples the teacher gaves us as guidelines on what to do.
+Once i became comfortable with using p5.js i moved onto learning to code DOM elements so i could create a sketch that at least uses two interactive controls that change something on the canvas such as create button, slider or input. What i ended up doing was making a code using slider and input. The slider controlled the size of the circle making it bigger and smaller and the input box allowed me me to type text that would appear under the circle i used the examples the teacher gave us as guidelines on what to do.
 ![DOM](../assets/week-02/DOM%20elements.png)
+*DOM elements i used*
 
-From there we moved onto vibe code an interactive sketch using LLM to help build more of a ambitious interactive sketch in p5.js from there put the code into p5.js and run the code and add features to the code one at a time. So i ai to generate me a code for p5.js and it gave me a code that makes a circle move from left to right. 
-(photo of the qustion)![LLM](../assets/week-02/LLM%20code%20.png)
+From there we moved onto vibe code an interactive sketch using LLM(eg Gemini, ChatGPT, Claude) to help build more of a ambitious interactive sketch in p5.js from there put the code into p5.js and run the code and add features to the code one at a time. So i ai to generate me a code for p5.js and it gave me a code that makes a circle move from left to right. 
+## AI Usage Statement Figure 1. Microsoft (2026). Give me a code for p5.js [AI-generated prompt]. Microsoft Copilot. 
+[ai](../assets/week-02/ai.png)![LLM](../assets/week-02/LLM%20code%20.png)
+*the question i asked ai* *the code ai gave me*
 from there i started to add my own features to the code and the feature 
 i added was making the circle change colours every time it hit one of the sides so to do that i added this code. 
 ![R,G,B](../assets/week-02/let%20r,g,b%20.png)
-which created variables for the red, green and blue values fo the circles colours and allowing thesketch know to change the colour of the circle when it hit a side. and i also add this code ![colour](../assets/week-02/colour.png)
+*code for the circle changing its colour*
+which created variables for the red, green and blue values fo the circles colours and allowing thesketch know to change the colour of the circle when it hit a side. and i also add this code 
+![colour](../assets/week-02/colour.png)
+*code that checks the circle*
 which checked when the circle hit one of the sides and when it does it reverses the direction and makes the circle a new random colour. 
 
-**Independent Study: Interactive Data Portrait**
+**Independent Study**
 For this independent study i was to take that data that i had collected for experiment 1 and use is as a basis for a interactive p5.js sketch where i had to try and translate my hand drawn data portrait into something some can explore, control and or manipulate throught different interactive elements. 
 
 First, i went back an reviewed the data i had collected last week and started to think about how i could translate it into a p5.js sketch. i drew a sketch on how i wanted to translate the data onto p5.js to help me visualise what i would look like and how i could code it onto p5.js  
 (photo of sketch )
 
-Once i had finished the drawing and decided what i wanted the sketch on p5.js to include like a slider to change the size of the symbol and a dropdown menu to choose which symbols to show i then began to translate the ideas into code  
+Once i had finished the drawing and decided what i wanted the sketch on p5.js to include like a slider to change the size of the symbol and a dropdown menu to choose which symbols to show i then began to translate the ideas into code. Before starting to code my data in i lookee at some refernces on the p5.js website such as create slider, translate, arc, create select, position, fill, end shape and many more to help with coding my data onto p5.js. 
 
-This part of the code set up the variables that the sketch relies on which includes the cell size for the spacing the shapes, a slider to control the size of the symbols and the dropdown menu that filters which symbols appears
+This part of the code set up the variables that the sketch relies on which includes the cell size for spacing the shapes, a slider to control the size of the symbols and the dropdown menu that filters which symbols appears
 ![cell code](../assets/week-02/cell%20code%20.png)
+*code for spacing the shapes, slider, dropdown menu*
 
-this part of the code represents the data portrait in code. Where each row corresponds to the row of shape and each object specifies the symbol that appears inside of the shapes this essentially telling p5.js what to draw and where to place it 
+this part of the code represents the data portrait in code. Where each of the row corresponds to the rows of shape and each object soecified
+what symbol would appear inside of the shapes and what this is doing is that it is telling p5.js what to draw and where to place it 
 ![shapes and symbols](../assets/week-02/shape%20and%20symbol%20code%20.png)
+*the group data that we collected in class*
 
 This part of the code sets up everything the sketches need to run. It creates the canvas, builds the symbols size slider and adds the dropdown menu.
 ![slider and dropdown](../assets/week-02/slider%20and%20dropdown%20code%20.png)
@@ -68,8 +53,8 @@ And lastly this part of the code draws all the symbols such as cloud, sun, wave,
 ![symbols](../assets/week-02/draw%20symbols.png)
 
 this is the final outcome of my sketch coded into the p5.js there were some problems with the code such as the colour of the diamond where the other shape are split into two colours the diamond stays a solid red colour  
-## Use ai to try and fix a part of my code that wouldn't work
-and i did ask ai(Figure 1. Microsoft (2026). Fix this code so that the diamond is split into colours white ontop and red on the bottom [AI-generated prompt]. Microsoft Copilot.) to help me fix this problem in which it gave me a code but instead of helping it caused errors to happen with my other coding i had done for the shapes 
+## Use ai to try and fix a part of my code that wouldn't work (Figure 2. Microsoft (2026). Fix this code so that the diamond is split into colours white ontop and red on the bottom [AI-generated prompt]. Microsoft Copilot.)
+and i did ask ai to help me fix this problem in which it gave me a code but instead of helping it caused errors to happen with my other coding i had done for the shapes 
 [code ai gave me](../assets/week-02/code%20ai%20gave%20me%20.png)[code error](../assets/week-02/code%20error.png)
 so i ended leaving the diamond as it didn't bother me to much but i still wished it was split colour like the other shapes overall i did find i some what easy to code as most of the code that i used were similar to the code out teacher taught and for some.[Data final](../assets/week-02/Data%20final.png)
 
