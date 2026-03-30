@@ -1,7 +1,9 @@
 Friday 20 march - studio 3
 overview of studio
 We had to go through digital and analogue approaches and explore how to access, filter and translate live data into a visual and material forms. These activities build on from the coding fundamentals from experiment 2 
+
 **Activity one**
+
 For the first activity we had to explore with cURL using terminal and the documentation and try to figure out how to 
 - Get the weather for a location using its GPS coordinates
 - Get the weather in a different language
@@ -21,6 +23,7 @@ this is the synonyms and antonyms of the word happy and how this code works is t
 [synonyms and antonyms](../assets/week-03/synonyms%20and%20antonyms.png)
 
 **Activity  two**
+
 After that we got a demo sketch of the current weather data for auckland we were told to experiment with the sketch. So what i did was changed the latitude and longitude to a different city so from auckland new zealand i did tokyo japan. how the sketched change was instead of showing auckland weather i showed tokyos weather and how i new that was because the wind bar was much more lower then it had been for auckland.
 [auckland](../assets/week-03/auckland.png)[tokyo](../assets/week-03/tokyo%20.png)
 
@@ -34,6 +37,7 @@ From there i changed the size of the of the circle making the circle smaller and
 [size](../assets/week-03/size%20.png)[size code](../assets/week-03/size%20code%20.png) 
 
 **Activity three**
+
 For this activity we had to get into pairs and design a data protocol: a set of rules for translating a live data source but since i wasn't there to do the in class activity i did it by myself as home and asked my flatmates to execute my protocol
 
 The protocol needed to specify the source, the frequency and the mapping. for the live data source i had chose to observe the human movements that were happening in my flat such as moving across the room, entering or leaving the room. i made the observation every 15 seconds  and made a map to translate the movement. we were suppose to swap protocols with other and since i was working alone i wasn't able to so i just foolowed my own. [protocol map](../assets/week-03/protocol%20map.jpg)
@@ -52,6 +56,7 @@ there were areas that felt unclear once i tired to follow the instructions like 
 what surprised me was how quickly the a page filled up with symbols and how abstract the final outcome of the protocol looked. 
 
 **Independent Study**
+
 For this independent study we were to build on from the in class activities done to make a work that engages with live data. which meant we had to build a sketch in p5.js that would respond to live data.
 
 i found a API to work with and to build a sketch that would responds to live data which is a dog API where every second people are adding there dogs the a open source dog pictures. 
@@ -76,6 +81,7 @@ This is the last part of the code where it draws, displaying the dog image and b
 overall i found i pretty easy to code as i did the weather code and references from p5.js which helped alot when i start to code the dog api
 
 **Reflective writing**
+
 For the independent study i took the digital approach as i felt it would be alot more easier to do then the analogue/physical approach as i felt i would have taken alot more time creating and trying to make it perfect without leaving me enough time to document the process where with the digital approach i felt i could get it done in a appropriate amount of time and still have enough time to do the document the process
 
 The live data source that i worked with was a dog api which was the internet's biggest collection of open source dog pictures where people would continuously add photos of there dogs. how i accessed was i first figured out what api i wanted to use and i wanted something related to animals from there i chose to do it related to dogs as i am a dog lover. So then i searched up dog apis that the one that i used was the first one to pop up so i went with that.

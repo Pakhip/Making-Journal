@@ -21,6 +21,7 @@ these were our answer to them
 ![Answers](../assets/week-01/Answers%20to%20the%20questions.jpg)
 
 **Independent Study**
+
 For this task i have to make my own data portrait that is an hand draw visualisation of my own personal data that i will collect over several days. For this independent data portrait i will pick an aspect of my life which i don't pay close attention to which i will record over four to five days. 
 
 The topic that i chose to record over the course of 4 days was sounds that interrupt my concentration beacuse i wanted to see how often it would occur throughout my day.
@@ -39,6 +40,7 @@ This is the final result of my independent data portrait that i did, and overall
 ![Final](../assets/week-01/final.jpg)![final2](../assets/week-01/final..jpg)
 
 **Reflection**
+
 I chose to record sounds that interrupt my concentration because it is a aspect of my everyday life which I usually ignore or overlook. By paying attention to the interruptions I get to understand what distracts me the most, how often it happens and whether it is certain times or places that make it harder for me to concentrate.
 
 Collecting the data was a really interesting process because it made me notice alot of things I would usually overlook like by paying more attention to the sounds that interrupted my concentration and writing them down I became a bit more aware of how often these distractions would happen and how they would affect my focus. Visualising the data was also interesting as it had helped me to see patterns, showing where it was the noisiest and what time of day my concentration was interrupted the most.

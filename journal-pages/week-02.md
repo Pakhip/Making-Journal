@@ -19,6 +19,7 @@ which created variables for the red, green and blue values fo the circles colour
 which checked when the circle hit one of the sides and when it does it reverses the direction and makes the circle a new random colour. 
 
 **Independent Study**
+
 For this independent study i was to take that data that i had collected for experiment 1 and use is as a basis for a interactive p5.js sketch where i had to try and translate my hand drawn data portrait into something some can explore, control and or manipulate throught different interactive elements. 
 
 First, i went back an reviewed the data i had collected last week and started to think about how i could translate it into a p5.js sketch. i drew a sketch on how i wanted to translate the data onto p5.js to help me visualise what i would look like and how i could code it onto p5.js  
@@ -57,6 +58,7 @@ so i ended leaving the diamond as it didn't bother me to much but i still wished
 once the code was finished i gave it to my flatmate to see and observe how they would interact with it. They first tried the slider making the shapes bigger and smaller and then they moved onto the dropdown men playing around with it by choosing different symbols to display. And from observing them i saw that the interactive elements of the sketch were clear, easy to use and engaging the for a exploration of the data.
 
 **Reflective writing**
+
 The data and visual aspects that i chose to work with from experiment 1 were the sounds that interupted my concentration, the shapes i used to represent the different days and the symbols i assignd to each of the sounds. The reason that i chose those thing beacuse the sounds were the main part of experiment 1, the shapes for the different days gave the data a clear structure and the symbols for sound because it allowed me to express those differences visually.
 
 i decide to use the slider and the dropdown menu interactive elements after closely looking at the data collected and i wanted people to be able to focus on certain symbols without all the other symbols getting in the way which is why i felt the dropdown menu made the most sense  i also wanted people to be able to control how the symbols appear visually which is why i felt the slider also made the most sense.

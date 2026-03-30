@@ -3,6 +3,7 @@ overview of studio
 we were to explore local and cloud based ai workflows and we were to do activites would introduce the practical and ethical dimensions of working with ai and building onto the ideas about representation from the other experiments that were done.
 
 **Activity one**
+
 for the first activity we were to download and install Ollama which i would open up in my computer's terminal and for ten minutes i would ask it questions about the experiments i done, try to ask for visualisation ideas, write code while also paying attention to what feels different about it like the speed and the quality
 
 this is when ollama is installed into my computer, i first started with with basic questions like hello, what is the big budget a show had gotten, what is the most budget for a movie and what i found really interesting was i could see that way that ollama was thinking about the question it was asked an how to replied to the said question.
@@ -13,7 +14,8 @@ i asked both ollama and chatgpt to give me a recipe for a pizza and the differen
 
 overall the difference that i found between ollama and other ai sites is that ollama i is much more faster at answering the questions it is asked and also goes into more detail when answering mean while the other ai sites give a real basic answer and sometime the answer doesn't match the question it was asked.
 
-**Activity two** 
+**Activity two**
+
 for the second activity we were to open notebooklm and build it by adding out making journals, websites that resonated with us, data sources or apis that we were curious about.
 
 i first added my making journal to the notebook and it gave a basic description of what my making journal was about. i then also added the dog api i used in experiment and it also gave a basic description what is was and that i used in the experiments between weeks 1 to 4.
@@ -43,6 +45,7 @@ overall what i had noticed about the answers that notebook gave me is that they 
 I then took all the sources and chat and turned them into a audio overview and what surprised me was about the audio overview was that it said something along the line of does forcing creative into a strict weekly grid helps a designer or does it just box them which got me thinking and i agree and disagree with it as some designers do well in a strict weekly grid while other designer don't and need more freedom to do thing and i feel that i am the type of designer that like freedom of doing in my own pace. And hearing it i could visualise an image of what it was talking about.
 
 **Independent Study**
+
 For this independent study we were to choose a public dataset about life in new zealand and we are to use cloud based ai tool (eg copilot, chatgpt, gemini) to explore, interpret and to represent the data 
 
 First i went and looked at the open data catalogue on catalogue.data.govt.nz and looked for a dataset that interests me and i ended up choosing the dataset of WDC three waters line because the was one of the few that would let me download it's csv.
@@ -68,6 +71,7 @@ i asked notebook to change the format of the text only narrative into a diagram 
 [diagram](../assets/week-04/diagram.png)
 
 **Critically Evaluate**
+
 The ai had defaulted to a blue, green and brown colour scheme across all the charts that it had generated which i do get as it does align with the different water systems. Blue for clean water, green for the stormwater and brown for waste water.
 
 there wasn't much that i override or redirected when ai generated the charts expect for the different formats which i realised after all the charts had been generated.
@@ -79,7 +83,6 @@ the representation that was most interesting was the static chart because of the
 what i would do differently if i was building this without ai is that I would look more in depth into the dataset as i did do a quick look over with it. Deciding on the variables i would want to add and designing the visualisation and not just accepting the defaults that were given.
 
 **Reflective writing**
-- What would you develop further with more time?
 
 The dataset that i ended up choosing the WDC three water lines as it was one of the few that i could fine that would let me download the csv of and that i was interested in how the water system works and the different components that keep it working.
 
