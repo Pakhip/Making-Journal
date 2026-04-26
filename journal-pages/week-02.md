@@ -13,7 +13,8 @@ Once i became comfortable with using p5.js i moved onto learning to code DOM ele
 ![DOM](../assets/week-02/DOM%20elements.png)
 
 From there we moved onto vibe code an interactive sketch using LLM(eg Gemini, ChatGPT, Claude) to help build more of a ambitious interactive sketch in p5.js from there put the code into p5.js and run the code and add features to the code one at a time. So i ai to generate me a code for p5.js and it gave me a code that makes a circle move from left to right. 
-## AI Usage Statement Figure 1. Microsoft (2026). Give me a code for p5.js [AI-generated prompt]. Microsoft Copilot. 
+## AI Usage Statement 
+Figure 1. Microsoft (2026). Give me a code for p5.js [AI-generated prompt]. Microsoft Copilot. 
 [ai](../assets/week-02/ai.png)![LLM](../assets/week-02/LLM%20code%20.png)
 from there i started to add my own features to the code and the feature 
 i added was making the circle change colours every time it hit one of the sides so to do that i added this code. 
@@ -54,7 +55,8 @@ And lastly this part of the code draws all the symbols such as cloud, sun, wave,
 ![symbols](../assets/week-02/draw%20symbols.png)
 
 this is the final outcome of my sketch coded into the p5.js there were some problems with the code such as the colour of the diamond where the other shape are split into two colours the diamond stays a solid red colour  
-## Use ai to try and fix a part of my code that wouldn't work (Figure 2. Microsoft (2026). Fix this code so that the diamond is split into colours white ontop and red on the bottom [AI-generated prompt]. Microsoft Copilot.)
+## AI Usage Statement 
+ Use ai to try and fix a part of my code that wouldn't work (Figure 2. Microsoft (2026). Fix this code so that the diamond is split into colours white ontop and red on the bottom [AI-generated prompt]. Microsoft Copilot.)
 and i did ask ai to help me fix this problem in which it gave me a code but instead of helping it caused errors to happen with my other coding i had done for the shapes 
 [code ai gave me](../assets/week-02/code%20ai%20gave%20me%20.png)[code error](../assets/week-02/code%20error.png)
 so i ended leaving the diamond as it didn't bother me to much but i still wished it was split colour like the other shapes overall i did find i some what easy to code as most of the code that i used were similar to the code out teacher taught and for some.[Data final](../assets/week-02/Data%20final.png)
