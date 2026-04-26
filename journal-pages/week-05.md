@@ -1,5 +1,8 @@
 
+# Week 05
+
 [← Back to Home](../index.md)
+
 **Review and Reflect**
 
 The experiment I enjoyed most was the week one independent data portrait because it was hands on and made me notice small details I would normally overlook. I found the act of focusing on slowing down and paying attention surprisingly interesting. The data representation I want to explore further is data humanism, since it is tactile, expressive, and grounded in lived experience. My practical work aligned with class ideas about valuing the overlooked and embracing personal, imperfect data, while also challenging me to be more intentional. The approach I will carry forward is data humanism because I genuinely enjoyed creating the independent data portrait.
