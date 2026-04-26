@@ -1,3 +1,5 @@
+[← Back to Home](../index.md)
+
 Friday 27 march - studio 4
 overview of studio
 we were to explore local and cloud based ai workflows and we were to do activites would introduce the practical and ethical dimensions of working with ai and building onto the ideas about representation from the other experiments that were done.

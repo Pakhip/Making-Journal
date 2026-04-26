@@ -1,3 +1,5 @@
+[← Back to Home](../index.md)
+
 friday 13 march - studio 2
 overview of the studio 
 in the studio we learned how to code using a website called p5.js where we got to explore coding fundamentals and interactive DOM elements such as buttons, sliders, text inputs and to create text sketches that respond to user input.

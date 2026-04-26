@@ -1,3 +1,5 @@
+[← Back to Home](../index.md)
+
 Friday 20 march - studio 3
 overview of studio
 We had to go through digital and analogue approaches and explore how to access, filter and translate live data into a visual and material forms. These activities build on from the coding fundamentals from experiment 2 
