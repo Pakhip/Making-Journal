@@ -58,20 +58,26 @@ https://giorgialupi.com/bruises-the-data-we-dont-see
 
 
 **Katie Holten - Tree Alphabet**
+
 **What draws me to it**
 her system way of mapping the letters to tree forms shows how the organic shapes can become a structured language.
+
 **What i might carry forward**
 using the plants morphology such as the leaf shape, branching density as a coded system for my dataset.
+
 **How it affects my direction**
 it expanded my thinking about how the botanical forms can function as a data encoding system and not just decoration.
 https://www.irishtimes.com/culture/art-and-design/why-i-made-a-new-irish-tree-alphabet-1.4367496
 
 
 **Diana Beltran Herrera - Paper and embroidery: a new material research**
+
 **What draws me to it**
 The precision and the delicacy of of her paper plants demonstrate how the paper can feel alive, layered and the emotionally expressive.
+
 **What i might carry forward**
 The techniques for the shaping, layring and attaching leaves so that my garden is structurally stable and is visually rich.
+
 **How it affects my direction**
 This reinforces my choice of the tactile 3d medium and shows that the paper can carry emotional weight.
 https://www.dianabeltranherrera.com/post/nature-research-2026
