@@ -42,20 +42,17 @@ The dataset is not publicly downloadable so only high level of summaries are ava
 ## Visual Research and Precedent Study 
 ## Giorgia Lupi & Stefanie Posavec - Dear Data ##
 ## What draws me to it ##
-
 The projects shows how the everyday behaviours can become poetic and tactile visualisations through simples marks and patterns.
 
 ## What i might carry forward ##
-
 that data that each of the data point can be represented through a unique and expressive form rather then a uniform symbol.
 
 ## How it affects my direction ##
-
 This strengthens my decision to use hand crafted leaves as the individual data portraits of care.
 
 
-##Giorgia Lupi - Bruises the data we don't see##
-##What draws me to it##
+## Giorgia Lupi - Bruises the data we don't see ##
+## What draws me to it ##
 
 
 
