@@ -79,5 +79,7 @@ Through the process i had learned how the materialconstraints the shape design d
 
 For the progress report i needed to make a slideshow that brought together the key components of my project so far. i started with a overview of where my project currently stands which included the new variation where people could ineract with the paper garden, the model that i made during the making sprint, and a better crafted paper pot. The next part covered the key developments and decisions made which included the interactive element and my decision to move from paper stems to wire stems for better structure. I then included some visual reaserch and references that would show the overall direction that i am aiming for the final outcome of the paper garden and finally i ended the slideshow with specific questions that would give me feedback on the project so far.
 
-add link of the progress report that i made 
+https://www.canva.com/design/DAHI3uxxUdc/s3wOUstD1twOWNOR_qgsRQ/edit
 
+**irst plant pot test**
+![First plant pot test](../assets/week-07/first%20plant%20pot%20test.jpg)

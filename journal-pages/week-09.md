@@ -133,7 +133,7 @@ my current darft of the project statement is just the one that notebooklm wrote 
 the only decision i have made was to make sun for people to insert inside of the plant pot as per the feedback i got saying i could have more verations of cares for the plant and i went with it as i loved the idea of give more options that people could use to interact with
 
 **Visual research**
-(photo of the visual research)
+![Visual Research](../assets/week-09/Visual%20research.png)
 
 **two or three question i want feedback on**
 
