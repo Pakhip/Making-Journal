@@ -62,7 +62,6 @@ At that monment i really didn't think i needed to research futher as i knew what
 
 
 **Pear Share**
-
 My partner for the peer share said that my project statement was clear and compelling and that she was impressed by how well notebookLM was able to explain my work even with the little information i had given it. The main thing my partner felt what still needed to be resolved was just updating the project statement to include the new decisions that i have made like the addition of the sun shaped paper that goes alongside with the raindrop.
 
 ## Making Sprint 
@@ -83,7 +82,6 @@ but there were question that we as visitors we were to use to prompt the coversa
 ## Independent Study 
 
 **Project Development**
-
 Throughtout this week i continued developing my project and made some progress to the components of the project. i made two new different sized plant pot and the bigger one became the final choice as i felt it was large enough to hold all the leavs without it being or looking overcrowed os from there i used thicker coloured paper to build the fianl plant pot. i also drew out and cut out  the raindrop, the sun and the leaf shpaes.
 
 I had also bought and experimented with different wire structures for the stems. The first test had used a single wire but it felt to thin and lacked the stability i wanted, so then i tried two wires twisted together which i felt gave the stems more strength and fianlly i made another version using the twisted wire paired with the actual leaf size to see how they both looked together and i really love the way they looked and more towards the end of the week i began on drawing the differnet patterns for the acts of care.
@@ -105,27 +103,22 @@ I had also bought and experimented with different wire structures for the stems.
 
 
 **Progress report**
-
 This is what i wrote in my progress report that i will be sharing next week to a small group of people
 
 **where your project currently stands?**
-
 So far i have made two more different sized plant pot with the last size being the perfect size, i have also made three different mock ups of my leaves i had just one wire, one having two wires twisted together and last with the leaves shape that i wanted and i started to draw my patterns for the different acts of care i have collected.
 
 i also have made my fianl plant pot alson with my fianl leaves, raindrops and suns.
 
 **your current darft project statement**
-
 my current darft of the project statement is just the one that notebooklm wrote up as i have yet to start writing my own project statement beacuse i have been foucusing on making the final out bur i will use the notebook one as a guide to help me write my fianl project statement
 
 **key developments and decisions since week 8**
-
 the only decision i have made was to make sun for people to insert inside of the plant pot as per the feedback i got saying i could have more verations of cares for the plant and i went with it as i loved the idea of give more options that people could use to interact with
 
 **Visual research**
 ![Visual Research](../assets/week-09/Visual%20research.png)
 
 **two or three question i want feedback on**
-
 I only had one question to ask the group with was does the project i make will have the visual impact that i want 
 and the answer that i got from moslty everyone was with all the elements that i have and inclued yes the prject will create the visual impact that i want with the people.
