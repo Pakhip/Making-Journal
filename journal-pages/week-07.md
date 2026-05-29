@@ -81,5 +81,5 @@ For the progress report i needed to make a slideshow that brought together the k
 
 https://www.canva.com/design/DAHI3uxxUdc/s3wOUstD1twOWNOR_qgsRQ/edit
 
-**irst plant pot test**
+**First plant pot test**
 ![First plant pot test](../assets/week-07/first%20plant%20pot%20test.jpg)

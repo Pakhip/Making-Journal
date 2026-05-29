@@ -11,7 +11,6 @@ layout: default
 ## Project Statement: First Draft 
 
 **Case Study**
-
 For the case study we were to work in pairs and engage with the Xeno Computer 0.1: Labor case study by Tega Brain and Sam Lavigne. And our task was to analyse the work and respond to a set of question 
 
 - what are the data sources used in this work?
@@ -22,32 +21,27 @@ For the case study we were to work in pairs and engage with the Xeno Computer 0.
 and this was my answers to each of these questions 
 
 **what are the data sources used in this work?**
-
 The job market
 
 **what is the future scenario it addresses?**
-
 How in the future jobs would be generated for people 
 
 **what does the statement argue about data and power?**
-
 the case study argues that data is never neutral as it is produced through labour and shaped by power
 
 **what might be the intended impact, and is this included in the statement**
-
 challenges the assumptions about the effcieny and automation
 
 ![Miro Board](../assets/week-09/miro%20board.png)
 
 ## Drafting with NotebookLM
 
-I created a new notebook in the notebookLM needed to add my reflective proposal along with my week 7 and 8 jouranl writing so that notebookLM can make a draft project statement but at that point i had yet to write my week 8 journal enrty so i only added my week 7 and reflective proposal. 
+For this activiy we were to use notebookLM to create a darft project statement. So i created a new notebook in the notebookLM  andneeded to add my reflective proposal along with my week 7 and 8 jouranl writing so that notebookLM can make a draft project statement using that but at that point in time i had yet to write out my week 8 journal enrty so i only added my week 7 and reflective proposal to notebookLM. 
 
 This was what NotebookLM had writtern
-(photo of notebookLM)
+![Darft project statement](../assets/week-09/NotebookLM.png)
 
 **Evalution**
-
 When reading through my draft project statement i had to make notes in responses the these questions 
 - what is working well?
 - what is missing or underdeveloped?
@@ -55,19 +49,15 @@ When reading through my draft project statement i had to make notes in responses
 - what do you need to research further?
 
 **what is working well?**
-
-I was raally the way that notebooklm was able to explain my work really well 
+what worked really well was the way that notebooklm was able to explain my work really well with the little infomation i was able to give 
 
 **what is missing or underdeveloped?**
-
 what was missing from the project statement was how i had decided to make the sun shaped paper where people could write down there acts of care.
 
 **what feels overly generalised or ai like?**
-
 When i went over the project statement i didn't feel like there wasn't any thing over that felt overly ai like. 
 
 **what do you need to research further?**
-
 At that monment i really didn't think i needed to research futher as i knew what i needed to do and get done.
 
 
