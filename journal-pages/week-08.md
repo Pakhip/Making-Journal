@@ -24,15 +24,15 @@ For the critical design propositions we were to find a partner from a different 
 
 My partners work was that they would make a website where they could write down there emotions and where other people could all well like this friends.
 
-##What aspect of their approach is most interesting?##
+**What aspect of their approach is most interesting?**
 
 The most interesting about their approach is the collaborative and social layer where the website isn'y just a dispaly but is a space where multiple people can activey contribute
 
-##What is least developed?##
+**What is least developed?**
 
 From what i could see the least developed was the translation from the data input to the representation as i felt the website seems to be focused on collecting contributions but the visualisation and the emotional tone weren't fully articulated.
 
-##Is there an alternative form (e.g. physical, screen-based, interactive) that could strengthen the work?##
+**Is there an alternative form (e.g. physical, screen-based, interactive) that could strengthen the work?**
 
 yes i think so beacuse they could add a digital system where someone adds there emotion/ feeling onto the website it would trigger an physical change like light, movement or shapes that could make the contrbutions to the website feel more alive.
 
@@ -40,7 +40,7 @@ yes i think so beacuse they could add a digital system where someone adds there 
 
 At that moment i flet that the scenario felt more implied rather than expressed to make it more powerful i think they could have frame the purpose more clearly like wht are people contributing and what the future world does this website belong to.
 
-##What else would you change or do differently if this were your project?##
+**What else would you change or do differently if this were your project?**
 
 if this was my project i take a different approach to it like insted of the simple display of an emotion i would make a creature like avatar that would embody the emotion of the person. the avatar would be built from sets of expressive parameters like the body shape would show if they are sad, happy, the posture of the body would show if they are alert, have low energy ect and this was how far i got before i had to show my partner what i had done and where they also showed me what they had done.
 

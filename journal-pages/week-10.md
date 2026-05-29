@@ -34,7 +34,7 @@ for the feedback i really didn't follow what each of the roles had asked me to t
 
 For the gallery walk we were to visit other group's padlet boards and to browse through their technical and conceptual feedback and use the heart button to upvote the most helful advice.
 
-[comment](../assets/week-10/comment%201%20i%20hearted%20.png)
+![comment](../assets/week-10/comment%201%20i%20hearted%20.png)
 why i liked this comment was beacuse it does exactly what a strong critiques is supposed to do, it helps the persenter understand whats working, whats not , and what to do next all while being specific and constructive.
 
 (add photo of the second comment i hearted )

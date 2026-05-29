@@ -10,7 +10,8 @@ layout: default
 
 ## Data Exploration
 ## What the data is and where it comes from ##
-I looked for data that is close to what my project is going to be and i came arcoss The Big Joy Project which is a global citizen science initiative that was created by the Greater Good Science Center. This is where participants complete an 7 day online program where they perform a small "micro acts of joy" and would log their reflctions.The Big Joy project has collected nearly half a million logged actions that are from over 118,000 participants across 221 countries and territories.  
+I looked for data that is close to what my project is going to be and i came arcoss The Big Joy Project which is a global citizen science initiative that was created by the Greater Good Science Center. This is where participants complete an 7 day online program where they perform a small "micro acts of joy" and would log their reflctions.The Big Joy project has collected nearly half a million logged actions that are from over 118,000 participants across 221 countries and territories. 
+![The Big joy porject](../assets/week-06/The%20big%20joy%20project%20.png)
 
 ## What the data contains and how it is structured ##
 The data contains the entries submitted by the participants as they complete daily micro acts of joy with each entry likely including the type of activity chosen, the day, a self reported emotional response and maybe a short written reflection. Additionally the data includes the country or territories, participation completion, and the number of activities completed. The structure is a mix of quantitative fields like counts counts, timestamps, ratings and the qualitative fields like short text reflections which are organised in a survey style format where each row represents one logged micro act.
@@ -107,8 +108,9 @@ https://superflux.in/index.php/work/mitigation-of-shock/#
 ## Project Planning and Skills Roadmap
 **What Do I Need To Make**
 
-(Photo)
+![Drawing](../assets/week-06/drawing.jpg)
 `*quick sketch of what my final artefact might look like*`
+
 For my paper garden i am thinking of leaving all the leaves green but the pattern colours would be different to show the different emotions while doing the act of care, different pattern to show the different act of care done and with the differnet height of the leaves while doing the act of care.
 
 
@@ -181,4 +183,6 @@ Through the process i learned that the qualitative data needs flexibility while 
 
 
 **Initial Concept Sketch**
-(add photo)
+![Drawing](../assets/week-06/drawing.jpg) 
+
+## AI Usage Statement

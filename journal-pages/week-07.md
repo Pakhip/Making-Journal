@@ -6,18 +6,20 @@ layout: default
 
 [← Back to Home](../index.md)
 
+## Documation
+
 ##Class Activity##
 
 ## Concept Sketches
 
-(add photo of initial concept sketch)
+![Developed Drawing](../assets/week-07/developed%20drawing.jpg)
 
 Continuing from the week 6 initial concept sketch, I brought the more developed version to class for our feedback activity where we displayed our sketches around the room and everyone walked around the space leaving one observation and one question on each of the project. After the walkthrough we had returned to our own sketch and read through the responses left making notes like what had surprised me, what aligned with my ideas, and what i want to follow up on. And this process had helped me to see how other people interpreted my concept and which parts were clear or that still needed more development. Using the feedback given we were then asked to redraw our sketches evolving the idea.
 
 
 **Feedback Reflection**
 
-(add photo of the feedback given)
+![Feedback on the drawing ](../assets/week-07/feedback%20on%20drawing.jpg)
 
 After coming back to my sketch and reading through the feedback i was given a few themes had stood out. I was surprised by how many people had described the sketch as nice, cute and pleasant which had reassured me that the emotional tone of the acts of care was coming through visually. Several of the feedback had aligned with my intentions like colour as a way to present data and the idea which the patterns could express different feelings which had confirmed that using different colour and patterns to encode the emotional nuance was working.
 
@@ -41,7 +43,7 @@ Using those insights i revised my sketch by:
 Using rapid prototyping we were to spend 45 minutes producing a hands on experiment with my dataset and visualisation approach using paper. Guided by my skills roadmap i focused on my third priority which was paper craft techniques for 3d forms, i explored on layering, cutting and shaping paper. Since I was working with some standard a4 paper i explored how far i could push the structural possibilities through layering, cutting, shaping and glueing. i had experimented with creating stems, leaves and the plant pot.
 
 This is the outcome of the rapid prototyping
-(add photo of paper protoype)
+![Making Sprint outcome](../assets/week-07/making%20sprint%201.jpg)
 
 During this session i realised that for the final build i don't want the stems to be made from rolled paper as they are too thick, limit height variation and lack stability. Instead I want to use wire as the stem just as they are or wrapped in paper. And while for the prototype i used just basic a4 paper but for the final version I want to work with thicker and higher quality paper.
 
@@ -54,7 +56,7 @@ For the what if the suggestion what is i made it possible for people to add thei
 
 But building off that what if i came up with a version that still allows people to add their own acts of care but in a way that would feel a lot more integrated and symbolic. So instead of hanging things from the leaves people could write their acts of care onto a small paper in the shape of a raindrop and insert it through an opening at the top of the plant pot as if they were watering the plant and helping to take care of it. This keeps the interaction meaningful while also maintaining the clarity and the structure of the visualisation of the plant.
 
-(add photo of new drawing)
+![What if variation](../assets/week-07/what%20if%20Variation.jpg)
 
 From there i made a new variation drawing of my project that incorporates that what if idea of where people write their own acts of care on paper and insert it into the plant pot. How this differs from my current approach is that it get people involved with the project, make the project more personal as they add their own act of care into the project.
 
@@ -78,3 +80,4 @@ Through the process i had learned how the materialconstraints the shape design d
 For the progress report i needed to make a slideshow that brought together the key components of my project so far. i started with a overview of where my project currently stands which included the new variation where people could ineract with the paper garden, the model that i made during the making sprint, and a better crafted paper pot. The next part covered the key developments and decisions made which included the interactive element and my decision to move from paper stems to wire stems for better structure. I then included some visual reaserch and references that would show the overall direction that i am aiming for the final outcome of the paper garden and finally i ended the slideshow with specific questions that would give me feedback on the project so far.
 
 add link of the progress report that i made 
+

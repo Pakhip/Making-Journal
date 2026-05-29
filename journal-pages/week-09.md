@@ -37,7 +37,7 @@ the case study argues that data is never neutral as it is produced through labou
 
 challenges the assumptions about the effcieny and automation
 
-(photo of the miro board)
+![Miro Board](../assets/week-09/miro%20board.png)
 
 ## Drafting with NotebookLM
 
@@ -79,11 +79,11 @@ My partner for the peer share said that my project statement was clear and compe
 
 During the 35 mintues making sprint i foucused on producing different pattern  what would represent the different acts of care from my dataset that i have collected and during the session i concentrated on developing final patterns outcomes using the shape, density and postions. what i had realised that most of my patterns had in some form had taken the shapes of circles but in the end theses designs now give my project the visual identity and help to connect the data more to the physical stucture of the plant. 
 
-(add photo of outcome from the making sprint)
+![Making Sprint outcome](../assets/week-09/patterns.jpg)
 
-## Round Robin Rapid Reactions 
+## Round Robin Rapid Reactions  
 
-For this the class was to be divided into presenters and visitors where presenters would set up with there project statement darft and the outcome form the making sprint ready to show the other half of the class that would be the visitors. And i was in the group that would be the visitors first i walked around the classroom looking as the different making sprints that the presenters had made and there were some really interesting ones like one where they made a map showing how many stray cats live in the different parts of auckland.
+For this part of the class was to be divided into presenters and visitors where presenters would set up with there project statement darft and the outcome from the making sprint ready to show the other half of the class that would be the visitors. And i was in the group that would be the visitors first i walked around the classroom looking as the different making sprints that the presenters had made and there were some really interesting ones like one where they made a map showing how many stray cats live in the different parts of auckland.
 
 After being the visitor i switched roles and became one of the presenters i had showed my making print and my project statement, there were quite a few people that came over to look at my work. The feedback that i had got was positive and several people said the project was heading in a great direction and that couldn't think of anything else that they could think to make the project even better but leo did suggest looking into making the project textured if people were going to ineract and touch the final outcome. 
 
@@ -94,11 +94,24 @@ but there were question that we as visitors we were to use to prompt the coversa
 
 **Project Development**
 
-Troughtout this week i continued developing my project and made some progress to the components of the project. i made two new different sized plant pot and the bigger one became the final choice as i felt it was large enough to hold all the leavs without it being or looking overcrowed os from there i used thicker coloured paper to build the fianl plant pot. i also drew out and cut out  the raindrop, the sun and the leaf shpaes.
+Throughtout this week i continued developing my project and made some progress to the components of the project. i made two new different sized plant pot and the bigger one became the final choice as i felt it was large enough to hold all the leavs without it being or looking overcrowed os from there i used thicker coloured paper to build the fianl plant pot. i also drew out and cut out  the raindrop, the sun and the leaf shpaes.
 
-I had also bought and experimented with different wire structures for the stems. The first test had used a single wire but it felt to thin and lacked the stability i wanted, so then i tried two wires twisted together which i felt gave the stems more strength and fianlly i made another version using the twisted wire paired with the actual leaf size to see how they both looked together and i really love the way they looked.and more towards the end of the week i began on drawing the differnet patterns for the acts of care.
+I had also bought and experimented with different wire structures for the stems. The first test had used a single wire but it felt to thin and lacked the stability i wanted, so then i tried two wires twisted together which i felt gave the stems more strength and fianlly i made another version using the twisted wire paired with the actual leaf size to see how they both looked together and i really love the way they looked and more towards the end of the week i began on drawing the differnet patterns for the acts of care.
 
-(photo from the slides of the project development)
+**twp plants pots test**
+![Two plant pots tests](../assets/week-09/test%20paper%20pots.jpg)
+
+**Final plant pot**
+![Final plant pot](../assets/week-09/final%20paper%20pot.jpg)
+
+**Cutout of the leaves, raindrop ans sun**
+![Cutout](../assets/week-09/cutouts.jpg)
+
+**Stem tests**
+![Stems](../assets/week-09/stem%20test.jpg)
+
+**Leaf patterns**
+![Patterns](../assets/week-09/patterns.jpg)
 
 
 **Progress report**
