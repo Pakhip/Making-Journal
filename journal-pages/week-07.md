@@ -41,7 +41,7 @@ Using those insights i revised my sketch by:
 Using rapid prototyping we were to spend 45 minutes producing a hands on experiment with my dataset and visualisation approach using paper. Guided by my skills roadmap i focused on my third priority which was paper craft techniques for 3d forms, i explored on layering, cutting and shaping paper. Since I was working with some standard a4 paper i explored how far i could push the structural possibilities through layering, cutting, shaping and glueing. i had experimented with creating stems, leaves and the plant pot.
 
 This is the outcome of the rapid prototyping
-(add photo)
+(add photo of paper protoype)
 
 During this session i realised that for the final build i don't want the stems to be made from rolled paper as they are too thick, limit height variation and lack stability. Instead I want to use wire as the stem just as they are or wrapped in paper. And while for the prototype i used just basic a4 paper but for the final version I want to work with thicker and higher quality paper.
 
@@ -59,10 +59,22 @@ But building off that what if i came up with a version that still allows people 
 From there i made a new variation drawing of my project that incorporates that what if idea of where people write their own acts of care on paper and insert it into the plant pot. How this differs from my current approach is that it get people involved with the project, make the project more personal as they add their own act of care into the project.
 
 
-## Independant Study
+##Independant Study##
 
 **Project Development & Skill Building**
 
+Continuing from the making sprint an the what if variations, i had developed my project further by focusing on the technical skills gaps were indentified from my week 6 roadmap specifically the need to strengthen the paper craft techiques.
 
+During the 45 minutes rapid prototyping session i had woked with standard a4 paper to explore how layering, cutting, shaping and gluing could form some of the basic components of my visualisation system. I had made a small test of the leaves and the plant pot. This had helped me to understand the limitations of a4 paper and how far i could push it within the short timeframe i had.
+
+As i reflected on the prototype i had realised that the rolled up paper stems were too inconsistent for the height variation that i wat to represent in my dataset and building onto this insight i decided that for the final outcome i will use wire for the stems instead allowing for a stronger structure and more control. 
+
+The what if activity had also shifted my direction as someone asked "what if people could add their own acts of care by hanging them on the leaves" which i loved the aspect of but i felt that by hanging items it would overcrowd the plant instead i had developed a variation where people can write there own acts of care onto small raindrops and insert them through a opening in the pot which symbolically watering the plant keeps the interaction meaningful while also preserving the structure of the outcome.
+
+Through the process i had learned how the materialconstraints the shape design decisions how the construction techniques had influenced the data clartiy and how even the small prototypes can reavel what needs to be refined. This iteration moved my project more forward by clarifiying the structural system i want to use strengthening my 3d paper making skills and intergrating a more thoughtful and participatory element into the fianl design.
 
 **Progress Report** 
+
+For the progress report i needed to make a slideshow that brought together the key components of my project so far. i started with a overview of where my project currently stands which included the new variation where people could ineract with the paper garden, the model that i made during the making sprint, and a better crafted paper pot. The next part covered the key developments and decisions made which included the interactive element and my decision to move from paper stems to wire stems for better structure. I then included some visual reaserch and references that would show the overall direction that i am aiming for the final outcome of the paper garden and finally i ended the slideshow with specific questions that would give me feedback on the project so far.
+
+add link of the progress report that i made 

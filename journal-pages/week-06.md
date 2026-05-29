@@ -112,7 +112,7 @@ https://superflux.in/index.php/work/mitigation-of-shock/#
 For my paper garden i am thinking of leaving all the leaves green but the pattern colours would be different to show the different emotions while doing the act of care, different pattern to show the different act of care done and with the differnet height of the leaves while doing the act of care.
 
 
-*What Do I Need To Learn**
+**What Do I Need to Learn**
 
 1. Designing a data schema for a qualitative human centred data
 
@@ -162,7 +162,7 @@ To move my project forward my next steps are on strengthening my data foundation
 In parallel i will need to develop my paper cart skills, especially the shapinG, cutting, laying and attaching leaves to stems in a stable 3d structure. I will prototype a few plant form to test and see how well different encodings communicate the data. And finally i will start making the final artefact along with documenting why each of the visual choice i made exists. These steps will give me a clear pathway on making the final artefact.
 
 
-## Independent Study
+##Independent Study##
 
 **Consultation Reflection**
 
