@@ -12,12 +12,15 @@ layout: default
 
 **What the data is and where it comes from**
 I looked for data that is close to what my project is going to be and i came arcoss The Big Joy Project which is a global citizen science initiative that was created by the Greater Good Science Center. This is where participants complete an 7 day online program where they perform a small "micro acts of joy" and would log their reflctions.The Big Joy project has collected nearly half a million logged actions that are from over 118,000 participants across 221 countries and territories. 
+
 ![The Big joy porject](../assets/week-06/The%20big%20joy%20project%20.png)
 
 **What the data contains and how it is structured**
+
 The data contains the entries submitted by the participants as they complete daily micro acts of joy with each entry likely including the type of activity chosen, the day, a self reported emotional response and maybe a short written reflection. Additionally the data includes the country or territories, participation completion, and the number of activities completed. The structure is a mix of quantitative fields like counts counts, timestamps, ratings and the qualitative fields like short text reflections which are organised in a survey style format where each row represents one logged micro act.
 
 **Any limitations, biases, or gaps that I notice and what these mean for my project direction**
+
 The dataset is not publicly downloadable so only high level of summaries are available. And it focuses on joy and not specifically care meaning that this only partially overlaps with the micro act of care. As the data is self reported which carries biases such as the social desirability, mood based variation and the cultural differences in expressing the emotion. Participation is global but uneven as some of the countries being over represented and the dataset also lacks the contextual details such as who the act was for, the emotional nuance beyond joy or the meaning behind each of the actions. For my project this means I cannot directly use the dataset and will need to collect the data or simulate my own micro acts of care with more emotions and fields that align with data humanism.
 
 ## Visual Research and Precedent Study 
@@ -193,6 +196,6 @@ This is the sketch that i created during class
 ![Drawing](../assets/week-06/drawing.jpg) 
 `*quick sketch of what my final artefact might look like*`
 
-And this is the more developed version of that skecch that i am going to being to next weeks class
+And this is the more developed version of that sketch that i am going to being to next weeks class
 ![Developed sketch](../assets/week-06/Developed%20sketch.jpg)
 `*developed sketch of what my final artefact might look like*`

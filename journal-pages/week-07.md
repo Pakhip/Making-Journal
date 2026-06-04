@@ -6,8 +6,6 @@ layout: default
 
 [← Back to Home](../index.md)
 
-## Documation
-
 ##Class Activity##
 
 ## Concept Sketches
@@ -37,8 +35,9 @@ Using those insights i revised my sketch by:
 
 3. making a small legend to make the purpose more clearer
 
-(add photo of revised sketch)
+![revised sketch](../assets/week-07/revise%20sketch.jpg)
 `*The revised sketch that i made based on the feedback that i got*`
+
 
 ## Making Sprint
 

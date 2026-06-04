@@ -164,7 +164,7 @@ After gluing the top onto the plant pot I began planning where I would position 
 ![first leaf glued](../assets/week-11/first%20leaf%20glued.jpg)
 `*the holes that i made to glue on the leaves*`
 
-add photo
+![All the leaves glued down](../assets/week-11/all%20leaves%20glued%20down.jpg)
 `*leaves glued onto the pot*`
 
 After gluing down all the leaves onto the top of the plant pot I had went back and repainted some areas of the top surface because there were parts of it that were damaged or smudged during the gluing process. With the constant handling and adjusting the stems it had caused small marks and scratches on the paint. Repainting the it had helped to restore the clean dirt like look because I wanted the final presentation to look polished.
@@ -172,9 +172,12 @@ After gluing down all the leaves onto the top of the plant pot I had went back a
 ![ruined area of the plant pot lid](../assets/week-11/all%20the%20leaves%20glued%20down.jpg)
 `*areas that got ruined when trying to glue the leaves*`
 
+![the area that i repainted](../assets/week-11/repainted%20area.jpg)
+`*The area repainted best to my ability*`
+
 After all that i wrote the instructions directly onto the plant tag saying insert a raindrop or sun with an act of care you have done. Adding the text made the interaction more clearer and helped guide people on how to participate with the project. I then prepared the plant tag by adding a strip of double sided tape at the edge, folding it and attaching it to the inside of the opening on the pot of the pot.
 
-add photo
+![The plant tag finished](../assets/week-11/tag%20photo.jpg)
 `*the plant tag finished*`
 
 I then decided to make two small boxes using templates that I found online to hold the raindrops and suns because leaving the shapes loose on the table wouldn't have looked unpolished and they risked getting mixed up or scattered. So having them stored neatly in two boxes made the whole setup look more professional and organised.
@@ -184,10 +187,12 @@ To test the size I had first made a prototype box out of the plain paper to chec
 ![small boxes](../assets/week-11/small%20box.jpg)
 `*the two small boxes that i made for the raindrops and suns*`
 
-In the end this is what the final artefact looked like and i am happy with how it turned out
+In the end this is what my final artefact looked liked and i am genuinely happy with how it turned out. Seeing everything together, the leaves, the stems, the pot and the colours have made the whole project feel complete. And it is really satisfying to look at the finished piece and recognise how each of the steps from planning to the final touches.
 
+![close up photo](../assets/week-11/close%20up.jpg)
 `*finish project photo*`
+
 
 **Conclusion**
 
-write about what i thought threwout the process of making the artefact.
+In conclusion this project has allowed me to bring together all the data, craft and the meaning in the way that felt personal and being visually expressive. With every stage from the designing the leaves and stems to resolving construction challenges to refining the pot, tag and the interactive element has helped me understand how each decision has shaped the final outcome. The finish artefact not only shows the acts of care but also show the care that i had put into making the artefact. 

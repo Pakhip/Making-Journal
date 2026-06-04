@@ -143,6 +143,8 @@ the only decision i have made was to make sun for people to insert inside of the
 ![Visual Research](../assets/week-09/Visual%20research.png)
 `*Visual research*`
 
+This is what i kind of what i want my acts of care data patterns to look like with all the different colours for the different emotions and the unique patterns for the type of data 
+
 **two or three question i want feedback on**
 
 I only had one question to ask the group with was does the project i make will have the visual impact that i want
