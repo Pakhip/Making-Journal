@@ -99,11 +99,11 @@ https://www.dianabeltranherrera.com/post/nature-research-2026
 
 **What draws me to it**
 
-The way that the speculative desing uses physical artefacts to imagine future systems that aligns with my care minutes future
+The way that the speculative desing uses physical projects to imagine future systems that aligns with my care minutes future
 
 **What i might carry forward**
 
-Embedding narrative world building into the pysical form of the paper garden feels like an artefact from the future
+Embedding narrative world building into the pysical form of the paper garden feels like an project from the future
 
 **How it affects my direction**
 
@@ -117,7 +117,7 @@ https://superflux.in/index.php/work/mitigation-of-shock/#
 **What Do I Need To Make**
 
 ![Drawing](../assets/week-06/drawing.jpg)
-`*quick sketch of what my final artefact might look like*`
+`*quick sketch of what my final project might look like*`
 
 For my paper garden i am thinking of leaving all the leaves green but the pattern colours would be different to show the different emotions while doing the act of care, different pattern to show the different act of care done and with the differnet height of the leaves while doing the act of care.
 
@@ -169,7 +169,7 @@ Because the writing is what will elevate my project from just a paper sculpture 
 
 To move my project forward my next steps are on strengthening my data foundation, filling in key skills gaps and starting the physical making process. First i will finalise my data scheme for the micro act of care such as the care type, emotional tone and time spent. Once the schema is set i will start collecting the data from other people in the course of several days from which i will clean and organise the data so it is consistent enough to map onto the physical forms.
 
-In parallel i will need to develop my paper cart skills, especially the shapinG, cutting, laying and attaching leaves to stems in a stable 3d structure. I will prototype a few plant form to test and see how well different encodings communicate the data. And finally i will start making the final artefact along with documenting why each of the visual choice i made exists. These steps will give me a clear pathway on making the final artefact.
+In parallel i will need to develop my paper cart skills, especially the shapinG, cutting, laying and attaching leaves to stems in a stable 3d structure. I will prototype a few plant form to test and see how well different encodings communicate the data. And finally i will start making the final project along with documenting why each of the visual choice i made exists. These steps will give me a clear pathway on making the final project.
 
 
 ##Independent Study##
@@ -196,8 +196,8 @@ For the initial concept sketch we were building on the drawing that was produced
 
 This is the sketch that i created during class 
 ![Drawing](../assets/week-06/drawing.jpg) 
-`*quick sketch of what my final artefact might look like*`
+`*quick sketch of what my final project might look like*`
 
 And this is the more developed version of that sketch that i am going to being to next weeks class
 ![Developed sketch](../assets/week-06/Developed%20sketch.jpg)
-`*developed sketch of what my final artefact might look like*`
+`*developed sketch of what my final project might look like*`

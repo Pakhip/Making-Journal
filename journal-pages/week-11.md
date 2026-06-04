@@ -54,7 +54,7 @@ In week 7 or 8 I had received the feedback encouraging me to add an interactive 
 
 **How does your work challenge conventional ideas?**
 
-My work challenges the conventional ideas because it uses 3D tactile artefact to make people notice the acts of care that usually go unnoticed and instead of presenting the data through charts or numbers my project turns the qualitative data into a physical experience that people can walk around and contribute to.
+My work challenges the conventional ideas because it uses 3D tactile project to make people notice the acts of care that usually go unnoticed and instead of presenting the data through charts or numbers my project turns the qualitative data into a physical experience that people can walk around and contribute to.
 
 **What impact do you want your visualisation to have?**
 
@@ -186,7 +186,7 @@ To test the size I had first made a prototype box out of the plain paper to chec
 ![small boxes](../assets/week-11/small%20box.jpg)
 `*the two small boxes that i made for the raindrops and suns*`
 
-In the end this is what my final artefact looked liked and i am genuinely happy with how it turned out. Seeing everything together, the leaves, the stems, the pot and the colours have made the whole project feel complete. And it is really satisfying to look at the finished piece and recognise how each of the steps from planning to the final touches.
+In the end this is what my final project looked liked and i am genuinely happy with how it turned out. Seeing everything together, the leaves, the stems, the pot and the colours have made the whole project feel complete. And it is really satisfying to look at the finished piece and recognise how each of the steps from planning to the final touches.
 
 ![close up photo](../assets/week-11/close%20up.jpg)
 `*finish project photo*`
@@ -194,4 +194,4 @@ In the end this is what my final artefact looked liked and i am genuinely happy 
 
 **Conclusion**
 
-In conclusion this project has allowed me to bring together all the data, craft and the meaning in the way that felt personal and being visually expressive. With every stage from the designing the leaves and stems to resolving construction challenges to refining the pot, tag and the interactive element has helped me understand how each decision has shaped the final outcome. The finish artefact not only shows the acts of care but also show the care that i had put into making the artefact. 
+In conclusion this project has allowed me to bring together all the data, craft and the meaning in the way that felt personal and being visually expressive. With every stage from the designing the leaves and stems to resolving construction challenges to refining the pot, tag and the interactive element has helped me understand how each decision has shaped the final outcome. The finish project not only shows the acts of care but also show the care that i had put into making the project. 

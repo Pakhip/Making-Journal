@@ -13,7 +13,7 @@ layout: default
 ## Concept Sketches
 
 ![Developed Sketch](../assets/week-07/Developed%20sketch...jpg)
-`*developed sketch of what my final artefact might look like*`
+`*developed sketch of what my final project might look like*`
 
 Continuing from the week 6 initial concept sketch, I brought the more developed version to class for our feedback activity where we displayed our sketches around the room and everyone walked around the space leaving one observation and one question on each of the projects. After the walkthrough we had returned to our own sketch and read through the responses left making notes like what had surprised me, what aligned with my ideas, and what i want to follow up on. And this process had helped me to see how other people interpreted my concept and which parts were clear or that still needed more development. Using the feedback given we were then asked to redraw our sketches evolving the idea.
 
@@ -64,7 +64,7 @@ But building off that, what if I came up with a version that still allows people
 From there i made a new variation drawing of my project that incorporates the what if idea of where people write their own acts of care on paper and insert it into the plant pot. How this differs from my current approach is that it gets people involved with the project, make the project more personal as they add their own act of care into the project.
 
 ![What if variation](../assets/week-07/what%20if%20Variation.jpg)
-`*what if variation of my artefact*`
+`*what if variation of my project*`
 
 
 ##Independent Study##

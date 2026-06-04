@@ -23,29 +23,29 @@ Constructed from layered, hand cut paper the this work intentionally departs fro
 Visitors are  invited to contribute by writing down their own acts of care on paper raindrops or sun, which symbolically is nourishing the plant. Through this gesture, whispers of care are encouraging people  to slow down, and notice the subtle forms of care that sustain daily life and recognise their own role within a caring community.
 
 
-## Final arefact photos
+## Final project photos
 
 **Close Up**
 
 ![close up](../assets/week-12/close%20up%20of%20front.jpg)
-`*Close up photo of the artefact*`
+`*Close up photo of the project*`
 
 **Front**
 
 ![front](../assets/week-12/front%20view.jpg)
-`*Front photo of the artefact*`
+`*Front photo of the project*`
 
 **Side**
 
 ![side](../assets/week-12/side%20photo.jpg)
-`*Side photo of the artefact*`
+`*Side photo of the project*`
 
 **Back**
 
 ![back](../assets/week-12/back%20photo.jpg)
-`*Back photo of the artefact*`
+`*Back photo of the project*`
 
 **Top**
 
 ![top](../assets/week-12/top%20photo.jpg)
-`*Top photo of the artefact*`
+`*Top photo of the project*`
