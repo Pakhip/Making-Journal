@@ -16,6 +16,7 @@ layout: default
 I looked for data that is close to what my project is going to be and i came arcoss The Big Joy Project which is a global citizen science initiative that was created by the Greater Good Science Center. This is where participants complete an 7 day online program where they perform a small "micro acts of joy" and would log their reflctions.The Big Joy project has collected nearly half a million logged actions that are from over 118,000 participants across 221 countries and territories. 
 
 ![The Big joy porject](../assets/week-06/The%20big%20joy%20project%20.png)
+`*Photo of the main screen of the big joy project*`
 
 **What the data contains and how it is structured**
 
