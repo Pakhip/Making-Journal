@@ -8,13 +8,13 @@ layout: default
 
 ##Class Activity##
 
-## Progress Report 
+## Progress Report
 
-I shared my progress report with a small group of 4 including myself and after the five mintues were up the group began to answer the question  had for them and one of the main piece of feedback that i had received was to expand the participatory element of my project. alongside the raindrop shaped paper someone recommended to add an additional shape such as the sun to offer up more varity and symbolism in how the contributions are represented. This idea gave me the thought on how small desing choices could make the interaction feel more intertional and engaging.
+I shared my progress report with a small group of 4 including myself and after the five minutes were up the group began to answer the question they had for them and one of the main pieces of feedback that I had received was to expand the participatory element of my project. alongside the raindrop shaped paper someone recommended to add an additional shape such as the sun to offer up more variety and symbolism in how the contributions are represented. This idea gave me the thought on how small design choices could make the interaction feel more international and engaging.
 
 **Critical Design Propositions**
 
-For the critical design propositions we were to find a partner from a different group and briefing each other on what our projects are then cirtically thinking about the partner's work. 
+For the critical design propositions we were to find a partner from a different group and briefing each other on what our projects are then critically thinking about the partner's work.
 
 - What aspect of their approach is most interesting?
 - What is least developed?
@@ -22,43 +22,56 @@ For the critical design propositions we were to find a partner from a different 
 - How might their future scenario or intended impact be communicated more powerfully?
 - What else would you change or do differently if this were your project?
 
-My partners work was that they would make a website where they could write down there emotions and where other people could all well like this friends.
+(Had forgotten to ask my partners name)
+My partner's work was that they are making a website where they could write down their emotions and where other people like their friends can also write down their emotions. 
 
 **What aspect of their approach is most interesting?**
 
-The most interesting about their approach is the collaborative and social layer where the website isn'y just a dispaly but is a space where multiple people can activey contribute
+The most interesting about their approach is the collaborative and social layer where the website isn't just a display but is a space where multiple people can actively contribute
 
 **What is least developed?**
 
-From what i could see the least developed was the translation from the data input to the representation as i felt the website seems to be focused on collecting contributions but the visualisation and the emotional tone weren't fully articulated.
+From what I could see the least developed was the translation from the data input to the representation as I felt the website seems to be focused on collecting contributions but the visualisation and the emotional tone weren't fully articulated.
 
 **Is there an alternative form (e.g. physical, screen-based, interactive) that could strengthen the work?**
 
-yes i think so beacuse they could add a digital system where someone adds there emotion/ feeling onto the website it would trigger an physical change like light, movement or shapes that could make the contrbutions to the website feel more alive.
+yes i think so because they could add a digital system where someone adds their emotion/ feeling onto the website. It would trigger an physical change like light, movement or shapes that could make the contributions to the website feel more alive.
 
-##How might their future scenario or intended impact be communicated more powerfully?##
+**How might their future scenario or intended impact be communicated more powerfully?**
 
-At that moment i flet that the scenario felt more implied rather than expressed to make it more powerful i think they could have frame the purpose more clearly like wht are people contributing and what the future world does this website belong to.
+At that moment I felt that the scenario felt more implied rather than expressed to make it more powerful. I think they could have framed the purpose more clearly like what are people contributing and what the future world does this website belong to.
 
 **What else would you change or do differently if this were your project?**
 
-if this was my project i take a different approach to it like insted of the simple display of an emotion i would make a creature like avatar that would embody the emotion of the person. the avatar would be built from sets of expressive parameters like the body shape would show if they are sad, happy, the posture of the body would show if they are alert, have low energy ect and this was how far i got before i had to show my partner what i had done and where they also showed me what they had done.
+if this was my project i take a different approach to it like instead of the simple display of an emotion i would make a creature like avatar that would embody the emotion of the person. The avatar would be built from sets of expressive parameters like the body shape would show if they are sad, happy, the posture of the body would show if they are alert, have low energy ect and this was how far i got before i had to show my partner what i had done and where they also showed me what they had done.
 
-(add photo of what i wrote about his work)
+![What i though of his work](../assets/week-08/What%20i%20though%20of%20his%20work.png)
+`*What i thought of his work*`
 
-this was that he had come up with for my project as if it was this project 
-(add photo)
+This was the idea that he came up with for my project imagining what he would do if it was his own project. He suggested about making the emotional data more visible by letting different emotions influence the growth and appearance of each of the leaves in the plant. This perspective had helped me see how the plant could be evolved beyond a static installation into something more dynamic and more responsive.
+
+![What he thought of my work](../assets/week-08/Critical%20thinking.jpg)
+`*What he thought of my work*`
+
 
 ##Independent Study##
 
-## Recflective Summary 
+## Reflective Summary
 
-the most significant feedback that i had received during the progress report was focused on expanding the participatory element thst my project has. As i was suggested that along with the raindrop shape paper that i will have so that people can write their acts of care that i could make a second shape like the sun and this idea has stood out to me because it deepens the sysmbolic of the project. i had originally chosen the raindrop beacuse it putting the raindrop into the pot mimics that act of water the plant in which it could be translated to doing an act of care. This feedback that helped me to see that interaction with the my project could become more richer and more expressive if there were multiple forms of care were represented through mulitple shapes.
+the most significant feedback that i had received during the progress report was focused on expanding the participatory element thst my project has. As it was suggested that along with the raindrop shape paper that I will have so that people can write their acts of care, I could make a second shape like the sun and this idea has stood out to me because it deepens the symbolism of the project. I had originally chosen the raindrop because putting in the raindrop into the pot mimics that act of watering the plant in which it could be translated to doing an act of care. This feedback helped me to see that interaction with my project could become more richer and more expressive if there were multiple forms of care were represented through multiple shapes.
 
 ## Project Development
 
-Building on from the recflective summary i continued developing my project by refining both of the participatory system and the physical construction of the paper plant. The decision that i made was expanding the shapes as alongside the raindrop i will introduced a sun shaped paper as another way for the participants to write down their acts of care. This dual shapes will make the interaction more expressive and gives the participants in choosing the type of care they want to contribute. 
+Building on from the reflective summary I continued developing my project by refining both the participatory system and the physical construction of the paper plant. The decision that I made was expanding the shapes as alongside the raindrop I will introduce a sun shaped paper as another way for the participants to write down their acts of care. These dual shapes will make the interaction more expressive and give the participants in choosing the type of care they want to contribute.
 
-To support this direction that i was going in i returned to the technical skills gaps that i had identified in the week 6 road map especially the paper carft techniques. 
+To support this direction that I was going in I returned to the technical skills gaps that I had identified in the week 6 road map especially the paper craft techniques.
 
-a technical shift was committing to wire stems instead of the rolled paper stems during the making i had tested how the wire worked with the paper, how it will hold the curvature and how the different legnths of wire worked with the paper leaves. i also experimented further with different sizes of plant pots to which would fit the best and so it is big enough to fit the contributions that people will make.
+A technical shift was committed to wire stems instead of the rolled paper stems. During the making sprint I had tested how the wire worked with the paper, how it would hold the curvature and how the different lengths of wire worked with the paper leaves. I also experimented further with different sizes of plant pots to which would fit the best and so it is big enough to fit the contributions that people will make.
+
+**Wire stem test**
+![Wire stem test](../assets/week-08/Wire%20stem%20test.jpg)
+`*Wire stem test*`
+
+**Two plant pots tests**
+![Two plant pots tests](../assets/week-08/Pots.jpg)
+`*Two more plant pot tests*`

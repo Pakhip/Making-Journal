@@ -9,17 +9,19 @@ layout: default
 ##Class Activity##
 
 ## Data Exploration
-## What the data is and where it comes from ##
+
+**What the data is and where it comes from**
 I looked for data that is close to what my project is going to be and i came arcoss The Big Joy Project which is a global citizen science initiative that was created by the Greater Good Science Center. This is where participants complete an 7 day online program where they perform a small "micro acts of joy" and would log their reflctions.The Big Joy project has collected nearly half a million logged actions that are from over 118,000 participants across 221 countries and territories. 
 ![The Big joy porject](../assets/week-06/The%20big%20joy%20project%20.png)
 
-## What the data contains and how it is structured ##
+**What the data contains and how it is structured**
 The data contains the entries submitted by the participants as they complete daily micro acts of joy with each entry likely including the type of activity chosen, the day, a self reported emotional response and maybe a short written reflection. Additionally the data includes the country or territories, participation completion, and the number of activities completed. The structure is a mix of quantitative fields like counts counts, timestamps, ratings and the qualitative fields like short text reflections which are organised in a survey style format where each row represents one logged micro act.
 
-## Any limitations, biases, or gaps that I notice and what these mean for my project direction ##
+**Any limitations, biases, or gaps that I notice and what these mean for my project direction**
 The dataset is not publicly downloadable so only high level of summaries are available. And it focuses on joy and not specifically care meaning that this only partially overlaps with the micro act of care. As the data is self reported which carries biases such as the social desirability, mood based variation and the cultural differences in expressing the emotion. Participation is global but uneven as some of the countries being over represented and the dataset also lacks the contextual details such as who the act was for, the emotional nuance beyond joy or the meaning behind each of the actions. For my project this means I cannot directly use the dataset and will need to collect the data or simulate my own micro acts of care with more emotions and fields that align with data humanism.
 
 ## Visual Research and Precedent Study 
+
 **Giorgia Lupi & Stefanie Posavec - Dear Data**
 
 **What draws me to it**
@@ -106,6 +108,7 @@ https://superflux.in/index.php/work/mitigation-of-shock/#
 
 
 ## Project Planning and Skills Roadmap
+
 **What Do I Need To Make**
 
 ![Drawing](../assets/week-06/drawing.jpg)
@@ -166,14 +169,14 @@ In parallel i will need to develop my paper cart skills, especially the shapinG,
 
 ##Independent Study##
 
-**Consultation Reflection**
+## Consultation Reflection
 
 From my consultation I received some useful feedback on my data sources. From the beginning i knew i wanted to collect the acts of care through other people as i felt the project would feel more authentic and grounded when it would reflect real lived experience. During the consultation it was mentioned the possibility of using ai to generate and although i found the idea really interesting it had helped me to clarify that i still wanted to use data from real people with ai only being used in only supporting small gaps if needed.  
 
 The consultation had helped sharpen my direction by helping me to think more deliberately about how i will collect data but not just who it comes from. I had realised i needed to design a simple survey that would encourages people to share the small acts of care without feeling to overwhelmed. I will be more intentional about crafting the prompts, capturing the emotional tone and making sure that the data feels personal rather than being something just abstract. The feedback had strengthened my commitment to gathering real micro acts of care and using it to make my 3d paper garden.
 
 
-**Technical Skills Building**
+## Technical Skills Building
 
 Using the skills roadmap that i made i had focused on my first priority gap being the designing a data schema. This step felt essential because the whole of 3d paper garden depends on how well i am able to translate the micro acts of care into a structured and meaningful field. Then i began by drafting different possible schemas and experimenting with combinations such as type of care, emotional tone, time spent and context but at first my structures were too open ended which had made me realise how difficult it would be to balance clarity with nuance.
 
@@ -182,7 +185,14 @@ To work through that I had sketched out a small visual showing how each of the f
 Through the process i learned that the qualitative data needs flexibility while it still requires some consistent boundaries. This work has moved my project forward while also giving me a stable framework for collecting the data from participants and a clear foundation for the next, which is prototyping paper plants.
 
 
-**Initial Concept Sketch**
-![Drawing](../assets/week-06/drawing.jpg) 
+## Initial Concept Sketch
 
-## AI Usage Statement
+For the initial concept sketch we were building on the drawing that was produced in class and make a more developed sketch however provisional it might be from our chosen dataset and were to bring our sketches along to class next week
+
+This is the sketch that i created during class 
+![Drawing](../assets/week-06/drawing.jpg) 
+`*quick sketch of what my final artefact might look like*`
+
+And this is the more developed version of that skecch that i am going to being to next weeks class
+![Developed sketch](../assets/week-06/Developed%20sketch.jpg)
+`*developed sketch of what my final artefact might look like*`
