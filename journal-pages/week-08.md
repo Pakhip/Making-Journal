@@ -6,9 +6,9 @@ layout: default
 
 [← Back to Home](../index.md)
 
-##Class Activity##
-
 ## Documentation 
+
+##Class Activity##
 
 ## Progress Report
 
