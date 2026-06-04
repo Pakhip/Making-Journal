@@ -6,9 +6,9 @@ layout: default
 
 [← Back to Home](../index.md)
 
-##In Class Activity##
-
 ## Documentation 
+
+##In Class Activity##
 
 ## Project Statement: First Draft
 

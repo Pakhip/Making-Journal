@@ -186,7 +186,7 @@ To test the size I had first made a prototype box out of the plain paper to chec
 ![small boxes](../assets/week-11/small%20box.jpg)
 `*the two small boxes that i made for the raindrops and suns*`
 
-In the end this is what my final project looked liked and i am genuinely happy with how it turned out. Seeing everything together, the leaves, the stems, the pot and the colours have made the whole project feel complete. And it is really satisfying to look at the finished piece and recognise how each of the steps from planning to the final touches.
+In the end this is what my final project ended up looking like and i am genuinely really happy with how it turned out. As seeing all the elements together like the leaves, the wire stems, the pot and the colours have made the whole project feel completed. And it is just so satisfying to look at the finished piece and recognise how each of the steps from the planning to the final touches has contributed to a result that feels really thoughtful, cohesive and true to my ideas that i had on this project. 
 
 ![close up photo](../assets/week-11/close%20up.jpg)
 `*finish project photo*`
