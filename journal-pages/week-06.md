@@ -6,6 +6,8 @@ layout: default
 
 [← Back to Home](../index.md)
 
+## Documentation 
+
 ##Class Activity##
 
 ## Data Exploration

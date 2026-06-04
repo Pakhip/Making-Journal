@@ -8,6 +8,8 @@ layout: default
 
 ##In Class Activity##
 
+## Documentation 
+
 ## Project Statement: First Draft
 
 **Case Study**

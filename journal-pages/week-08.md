@@ -8,6 +8,8 @@ layout: default
 
 ##Class Activity##
 
+## Documentation 
+
 ## Progress Report
 
 I shared my progress report with a small group of 4 including myself and after the five minutes were up the group began to answer the question they had for them and one of the main pieces of feedback that I had received was to expand the participatory element of my project. alongside the raindrop shaped paper someone recommended to add an additional shape such as the sun to offer up more variety and symbolism in how the contributions are represented. This idea gave me the thought on how small design choices could make the interaction feel more international and engaging.

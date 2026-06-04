@@ -10,7 +10,6 @@ layout: default
 
 ##In Class Activity##
 
-
 ## Journal Review
 
 For the journal review we are to work in pairs and review each others journal entries for weeks 6 to 10 using a check list to see if we have done both all the in class activities and independent study while also checking for clarity and completeness, an effective balance of visuals and the text and has the correct technical implementation. but since there was only three of us sitting at the table we did it in a pair of threes where i checked Eva's journal, my journal was checked by Naba and Naba's journal was checked by Eva
