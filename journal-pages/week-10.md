@@ -37,11 +37,13 @@ For the feedback I really didn't follow what each of the roles had asked me to t
 For the gallery walk we were to visit other group's padlet boards and to browse through their technical and conceptual feedback and use the heart button to upvote the most helpful advice.
 
 ![comment](../assets/week-10/comment%201%20i%20hearted%20.png)
+
 `*First comment that i hearted*`
 
 why i liked this comment was because it does exactly what a strong critique is supposed to do. It helps the presenter understand what's working, what's not , and what to do next all while being specific and constructive.
 
 ![comment 2](../assets/week-10/second%20comment%20i%20hearted.png)
+
 `*second comment that i hearted*`
 
 Why I liked this comment was because it acknowledges that each of the elements has been carefully considered but also suggests simplifying the design by reducing the number of beads of people to make this project more manageable within the time frame that we have.
